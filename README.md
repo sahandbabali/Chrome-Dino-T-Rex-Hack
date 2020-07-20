@@ -1,2 +1,2 @@
-# Chrome-Dino-T-Rex-Hack
-Chrome Dino T-Rex Hack script with UI
+# T-Rex-Runner-Mod-Menu
+T-Rex Runner Mod Menu
