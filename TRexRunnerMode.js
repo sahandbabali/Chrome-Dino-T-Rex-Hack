@@ -51,4 +51,4 @@ document.getElementById("godmode").addEventListener("click", godmode );
 document.getElementById("skins").addEventListener("change", skinchager);
 
 document.getElementById("speedti").value = Runner.instance_.currentSpeed;
-document.getElementById("speedti").addEventListener("change", setspeed );
+document.getElementById("speedti").addEventListener("input", setspeed );
