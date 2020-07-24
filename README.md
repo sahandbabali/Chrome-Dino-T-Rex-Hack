@@ -1,5 +1,6 @@
 # T-Rex-Runner-Mod-Menu
 T-Rex Runner Mod Menu
+by Sahand Babali
 
 Copy the code to console in Google Chrome when you are offline.<br/>
 
