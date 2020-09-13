@@ -8,9 +8,9 @@ Copy the code to console in Google Chrome when you are offline.<br/>
 
 
 
-Moded skins
-Color
+Moded skins<br/>
+Color<br/>
 ![T-Rex-Runner-Mod-Menu](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4778ec101284557.5f5e9cb8e6b93.png)
 
-Catto
+Catto<br/>
 ![T-Rex-Runner-Mod-Menu](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c7298f101284557.5f5e9cb8e6627.png)
